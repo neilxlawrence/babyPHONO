@@ -1,0 +1,5 @@
+This folder contains an application that can be downloaded onto a windows operated computer, to help visualise digital recordings of heart sounds. 
+
+Open the application, and one can upload a '.wav' file of recorded heart sounds. The application will then allow the downloading of a pdf report that contains the associated fourier transform plot and spectrogram generated from the recording. 
+
+Any questions to n.r.lawrence@sheffield.ac.uk
