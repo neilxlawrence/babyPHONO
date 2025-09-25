@@ -2,8 +2,24 @@
 title: "About"
 ---
 
-About this site
+<div style="text-align: center;">
 
-```{r}
-1 + 1
-```
+Welcome to the babyPHONO research study website
+
+<br><br>
+
+For more information please contact <n.r.lawrence@sheffield.ac.uk>
+
+<br><br>
+
+<!-- Centered YouTube video -->
+<iframe style="display: block; margin: 0 auto;" 
+        width="560" height="315" 
+        src="https://www.youtube.com/embed/mwFjnz7l_bo?si=UGto2-YrTXUejYwm" 
+        title="YouTube video" 
+        frameborder="0" 
+        allow="autoplay; encrypted-media; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+</div>
