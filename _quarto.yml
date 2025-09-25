@@ -10,14 +10,12 @@ website:
         text: Home
       - about.qmd
 
-    background: purple
-  
-    foreground: white
     
     logo: images/babyphono_logo_purple.png
     
 format:
   html:
+    include-in-header: meta.html
     theme:
       - cosmo
       - brand
