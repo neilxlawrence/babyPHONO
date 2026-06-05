@@ -3,10 +3,11 @@ title: "Study team"
 toc: false
 ---
 
-## Our Study Team
+::: {style="text-align: center;"}
 
 Welcome to the **babyPHONO** study team!\
 Our group includes clinicians, researchers, and data scientists collaborating to improve the early diagnosis of congenital heart disease.
+:::
 
 ------------------------------------------------------------------------
 
@@ -66,7 +67,7 @@ Our group includes clinicians, researchers, and data scientists collaborating to
 
 <img src="images/louis_stokes_circle.png" alt="Dr Louis Stokes" class="team-photo"/>
 
-<p><em>co-investigator</em></p>
+<p><em>Co-investigator</em></p>
 
 <p>Qualitative Researcher</p>
 :::
