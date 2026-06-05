@@ -22,10 +22,11 @@ Ask us if there is anything that is not clear or if you would like more informat
 
 Less than 1 in 100 babies have a problem with the structure of the heart. If we find this early, we may be able to treat it more effectively. We want to see if we can record the heart sounds of babies, to help find problems with the heart.
 We are hoping to recruit at least 200 babies from Jessop Wing to take part in this research. If this study is successful, we hope that it will lead to further studies that in the future help us detect heart problems in babies more effectively.
-
-
+:::
+::: {style="text-align: center;"}
 ![](images/baby_listen.png){width="50%" fig-align="center"}
-
+:::
+::: {style="text-align: left;"}
 <b>What will happen to you and your baby if you take part in this research?</b>
 
 This research study is looking to record the heart sounds of babies using a digital stethoscope. This is to find out whether we can use artificial intelligence to help detect heart problems by analysing the recordings. These recordings will be compared to the findings of the heart scan using ‘machine learning’.
@@ -36,15 +37,33 @@ If your baby is booked for a repeat scan of the heart, we will also record the h
 
 In this research study, the recording of the heart sounds will not change what happens to your baby. They will still receive the same ultrasound scan of the heart, and any other necessary scans or treatment that they would if they were not in the research study. 
 
+
+:::
+::: {style="text-align: center;"}
+![](images/ultrasound.jpg){width="50%" fig-align="center"}
+:::
+::: {style="text-align: left;"}
+
 <b>Summary of what happens to participants in this study:</b>
 
 
+:::
+::: {style="text-align: center;"}
 ![](images/echo_flowchart.jpg){width="80%" fig-align="center"}
+:::
+::: {style="text-align: left;"}
+<br>
 <b>What are the risks of this research?</b>
 The digital stethoscope is very similar to a normal stethoscope, and does not pose any risk to your baby. The stethoscope has a digital device attached to its tubing that captures sound. This gets transmitted wirelessly to a mobile phone or tablet. The recording then gets stored online in ‘the cloud’, using a computer server in the United states of America. This device has been approved by the medicines and healthcare products regulatory agency for use in the United Kingdom. 
 
 Taking part in this research may mean the baby check takes around 2 to 5 minutes longer. Filling in the questionnaire afterwards and taking the phone call in a year will take a small amount of your time. 
 There is a risk that clinicians accidentally enter personal information into the digital stethoscope application. The information within this application will be reviewed weekly, and any personally identifiable data will be deleted by the research team to guard against this risk. 
+
+:::
+::: {style="text-align: center;"}
+![](images/eko_stethoscope.jpg){width="50%" fig-align="center"}
+:::
+::: {style="text-align: left;"}
 
 <b>What is the benefit in taking part in this research?</b>
 
@@ -126,6 +145,7 @@ Thank you for considering taking part in this research.
 
 For further information about this research study, please contact:
 E-mail: 			
+[sth.babyphono\@nhs.net](mailto:sth.babyphono@nhs.net){.email}
 sth.babyphono@nhs.net  	
 Study phone number: 	
 +447729849599
@@ -136,8 +156,14 @@ Tree Root Walk,
 Broomhall, 
 Sheffield, 
 S10 2SF
-![](images/teaching_hospitals_logo.png){width="50%" fig-align="center"}
-
+<br>
+:::
+::: {style="text-align: center;"}
+![](images/teaching_hospitals_logo.jpg){width="50%" fig-align="center"}
+:::
+::: {style="text-align: left;"}
+<br>
+<br>
 This research study is sponsored by:
 The University of Sheffield
 Western Bank, 
@@ -147,14 +173,23 @@ Data protection officer:
 Luke Thompson
 dataprotection@sheffield.ac.uk 			
 +44 114 222 1117
+<br>
+
+:::
+::: {style="text-align: center;"}
 ![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"}
+<br>
 
-
+:::
+::: {style="text-align: left;"}
 This research study is funded by:
 Sheffield Children’s Hospital Charity
 4 Marlborough Rd, Sheffield, S10 1DB
+<br>
+
+:::
+::: {style="text-align: center;"}
 ![](images/charity_logo.jpg){width="50%" fig-align="center"}
+<br>
 
-
-For more information please contact [n.r.lawrence\@sheffield.ac.uk](mailto:n.r.lawrence@sheffield.ac.uk){.email}
 :::
