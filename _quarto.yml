@@ -11,6 +11,12 @@ website:
       - about.qmd
       - href: study-team.qmd
         text: Study team
+      - text: "Participant Information"
+        menu:
+          - text: "Patients having an echo"
+            href: echo-information.qmd
+          - text: "Patients having a NIPE"
+            href: nipe-information.qmd
     logo: images/babyphono_logo_purple.png
     
 format:

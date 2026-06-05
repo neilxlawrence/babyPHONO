@@ -15,3 +15,14 @@ h2.subtitle {
 .navbar a, .navbar-brand {
   color: white !important;
 }
+
+/* Dropdown menu text */
+.dropdown-menu .dropdown-item {
+  color: #6A1B9A !important;  /* purple */
+}
+
+/* Hover colour */
+.dropdown-menu .dropdown-item:hover {
+  color: white !important;
+  background-color: #6A1B9A !important;
+}
