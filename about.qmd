@@ -2,25 +2,27 @@
 title: "About"
 ---
 
-<div style="text-align: center;">
-
+:::: {style="text-align: center;"}
 Welcome to the babyPHONO research study website
+
+For the participant information leaflet for babies undergoing the newborn infant physical examination, please [click here](nipe-information.qmd).
+
+For the participant information leaflet for babies undergoing an echocardiogram, please [click here](echo-information.qmd).
 
 <br><br>
 
-For more information please contact <n.r.lawrence@sheffield.ac.uk>
+For more information about the babyPHONO research study please contact [sth.babyphono\@nhs.net](mailto:sth.babyphono@nhs.net){.email}
 
 <br><br>
 
 <!-- Responsive YouTube video -->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe src="https://www.youtube.com/embed/mwFjnz7l_bo?si=UGto2-YrTXUejYwm"
+
+::: {style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;"}
+<iframe src="https://www.youtube.com/embed/mwFjnz7l_bo?si=UGto2-YrTXUejYwm"
           title="YouTube video"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           frameborder="0"
           allow="autoplay; encrypted-media; picture-in-picture"
-          allowfullscreen>
-  </iframe>
-</div>
-
-</div>
+          allowfullscreen> </iframe>
+:::
+::::
