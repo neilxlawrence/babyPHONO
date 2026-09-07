@@ -27,3 +27,13 @@ h2.subtitle {
   background-color: #6A1B9A !important;
 }
 
+/* Make mobile menu and search icons white */
+.navbar-toggler-icon {
+  filter: brightness(0) invert(1);
+}
+
+.aa-DetachedSearchButtonIcon,
+.aa-SubmitIcon,
+.quarto-search-button .bi-search {
+  color: white !important;
+}
