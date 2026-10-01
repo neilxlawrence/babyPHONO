@@ -5,7 +5,7 @@ title: "babyPHONO"
 ::: {style="text-align: center;"}
 Welcome to the babyPHONO research study website
 
-This study is recruiting patients under 3 months already having an echocardiogram as part of the normal clinical care. They are eligible for the study if a clinician has heard a heart murmur, or if the baby has previously had an echocardiogram that showed a structural heart defect.
+This study is recruiting patients under 3 months already having an echocardiogram at the Jessop Wing hospital as part of their normal clinical care. They are eligible for the study if a clinician has heard a heart murmur, or if the baby has previously had an echocardiogram that showed a structural heart defect.
 
 This study is an observational feasibility study, that does not change the clinical care of the babies. 
 
