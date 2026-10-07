@@ -17,6 +17,10 @@ website:
             href: echo-information.qmd
           - text: "Patients having a NIPE"
             href: nipe-information.qmd
+      - text: "Participant Information Translated"
+        menu:
+          - text: "Arabic - patients having an echo"
+            href: echo-information-ARABIC.qmd            
     logo: images/babyphono_logo_purple.png
     
 format:
