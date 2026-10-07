@@ -17,9 +17,7 @@ We would like to invite you and your baby to take part in our research study. Be
 
 <b>Why are we doing this research?</b>
 
-Less than 1 in 100 babies have a problem with the structure of the heart. If we find this early, we may be able to treat it more effectively. We want to see if we can record the heart sounds of babies, to help find problems with the heart. <br>
-<br>
-We are hoping to recruit at least 200 babies from Jessop Wing to take part in this research. If this study is successful, we hope that it will lead to further studies that in the future help us detect heart problems in babies more effectively.
+Less than 1 in 100 babies have a problem with the structure of the heart. If we find this early, we may be able to treat it more effectively. We want to see if we can record the heart sounds of babies, to help find problems with the heart. <br> <br> We are hoping to recruit at least 200 babies from Jessop Wing to take part in this research. If this study is successful, we hope that it will lead to further studies that in the future help us detect heart problems in babies more effectively.
 :::
 
 ::: {style="text-align: center;"}
@@ -29,8 +27,7 @@ We are hoping to recruit at least 200 babies from Jessop Wing to take part in th
 ::: {style="text-align: left;"}
 <b>Do you have to take part in this research?</b>
 
-No, taking part is your decision, and not taking part will not affect the care of you or your baby. You can withdraw from the study at any time, and do not have to give a reason to withdraw.
-<br>
+No, taking part is your decision, and not taking part will not affect the care of you or your baby. You can withdraw from the study at any time, and do not have to give a reason to withdraw. <br>
 :::
 
 ::: {style="text-align: left;"}

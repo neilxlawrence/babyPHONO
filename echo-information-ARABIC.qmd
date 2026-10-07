@@ -2,6 +2,7 @@
 title: "ورقة معلومات للمشاركين بشأن تخطيط صدى القلب"
 lang: ar
 dir: rtl
+toc: false
 ---
 
 ```{=html}
@@ -62,7 +63,7 @@ main.content .centered { text-align: center; }
 ::: {.centered dir="rtl"}
 <!-- The referenced flowchart image may contain English text. Translate the image separately before publishing an entirely Arabic page. -->
 
-![](images/echo_flowchart.jpg){width="80%" fig-align="center"}
+![](images/echo_flowchart_ARABIC.jpg){width="80%" fig-align="center"}
 :::
 
 ::: {dir="rtl"}
