@@ -21,8 +21,28 @@ website:
             href: clinician-information.qmd
       - text: "Participant Information Translated"
         menu:
+          - text: "Arabic - patients having a NIPE"
+            href: nipe-information-ARABIC.qmd      
           - text: "Arabic - patients having an echo"
-            href: echo-information-ARABIC.qmd            
+            href: echo-information-ARABIC.qmd   
+          - text: "Bengali - patients having a NIPE"
+            href: nipe-information-BENGALI.qmd      
+          - text: "Chinese - patients having a NIPE"
+            href: nipe-information-CHINESE.qmd      
+          - text: "Kurdish - patients having a NIPE"
+            href: nipe-information-KURDISH.qmd      
+          - text: "Polish - patients having a NIPE"
+            href: nipe-information-POLISH.qmd      
+          - text: "Punjabi - patients having a NIPE"
+            href: nipe-information-PUNJABI.qmd      
+          - text: "Romanian - patients having a NIPE"
+            href: nipe-information-ROMANIAN.qmd      
+          - text: "Slovak - patients having a NIPE"
+            href: nipe-information-SLOVAK.qmd                  
+          - text: "Somali - patients having a NIPE"
+            href: nipe-information-SOMALI.qmd                  
+          - text: "Urdu - patients having a NIPE"
+            href: nipe-information-URDU.qmd                           
     logo: images/babyphono_logo_purple.png
     
 format:
