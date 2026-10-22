@@ -19,7 +19,7 @@ website:
             href: nipe-information.qmd
           - text: "Clinician participants"
             href: clinician-information.qmd
-      - text: "Participant Information Translated"
+      - text: "NIPE Information Translated"
         menu:
           - text: "Arabic - patients having a NIPE"
             href: nipe-information-ARABIC.qmd      
@@ -43,6 +43,10 @@ website:
             href: nipe-information-SOMALI.qmd                  
           - text: "Urdu - patients having a NIPE"
             href: nipe-information-URDU.qmd                           
+      - text: "Echocardiogram Information Translated"
+        menu:
+          - text: "Arabic - patients having an echo"
+            href: echo-information-ARABIC.qmd   
     logo: images/babyphono_logo_purple.png
     
 format:

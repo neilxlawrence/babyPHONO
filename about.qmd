@@ -5,9 +5,9 @@ title: "About"
 :::: {style="text-align: center;"}
 Welcome to the babyPHONO research study website
 
-For the participant information leaflet for babies undergoing an echocardiogram, please [click here](echo-information.qmd). This arm of the study is currently recruiting. 
+For the participant information leaflet for babies undergoing an echocardiogram, please [click here](echo-information.qmd). This arm of the study is currently recruiting.
 
-For the participant information leaflet for babies undergoing the newborn infant physical examination, please [click here](nipe-information.qmd). Please note, we have not yet launched the newborn infant physical examination arm of the study.
+For the participant information leaflet for babies undergoing the newborn infant physical examination, please [click here](nipe-information.qmd). 
 
 <br><br>
 
@@ -18,11 +18,8 @@ For more information about the babyPHONO research study please contact [sth.baby
 <!-- Responsive YouTube video -->
 
 ::: {style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;"}
-<iframe src="https://www.youtube.com/embed/mwFjnz7l_bo?si=UGto2-YrTXUejYwm"
-          title="YouTube video"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-          frameborder="0"
-          allow="autoplay; encrypted-media; picture-in-picture"
-          allowfullscreen> </iframe>
+<iframe src="https://www.youtube.com/embed/mwFjnz7l_bo?si=UGto2-YrTXUejYwm" title="YouTube video" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen>
+
+</iframe>
 :::
 ::::
