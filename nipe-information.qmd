@@ -13,19 +13,11 @@ title: "Newborn infant physical examination patient information sheet"
 :::
 
 ::: {style="text-align: left;"}
-We would like to invite you and your baby to take part in our research study. Before you decide, we would like you to understand why the research is being done and what it will involve. <br>
-<br>
-One of our team will go through this information with you and answer any questions you may have. Ask us if there is anything that is not clear or if you would like more information. <br>
-<br>
-Take time to decide whether or not you want your child to take part. Participation is completely voluntary.
+We would like to invite you and your baby to take part in our research study. Before you decide, we would like you to understand why the research is being done and what it will involve. <br> <br> One of our team will go through this information with you and answer any questions you may have. Ask us if there is anything that is not clear or if you would like more information. <br> <br> Take time to decide whether or not you want your child to take part. Participation is completely voluntary.
 
 <b>Why are we doing this research?</b>
 
-All babies are offered a ‘newborn infant physical examination’ which is sometimes called the ‘baby check’. This leaflet explains some research we are doing to see if we can make it better at finding problems with the heart. <br>
-<br>
-Less than 1 in 100 babies have a problem with the structure of the heart. If we find this early, we may be able to treat it more effectively. We want to see if we can record the heart sounds of babies, to help find problems with the heart. <br>
-<br>
-We are hoping to recruit at least 200 babies from Jessop Wing to take part in this research. If this study is successful, we hope that it will lead to further studies that in the future help us detect heart problems in babies more effectively.
+All babies are offered a ‘newborn infant physical examination’ which is sometimes called the ‘baby check’. This leaflet explains some research we are doing to see if we can make it better at finding problems with the heart. <br> <br> Less than 1 in 100 babies have a problem with the structure of the heart. If we find this early, we may be able to treat it more effectively. We want to see if we can record the heart sounds of babies, to help find problems with the heart. <br> <br> We are hoping to recruit at least 200 babies from Jessop Wing to take part in this research. If this study is successful, we hope that it will lead to further studies that in the future help us detect heart problems in babies more effectively.
 :::
 
 ::: {style="text-align: center;"}
@@ -33,24 +25,24 @@ We are hoping to recruit at least 200 babies from Jessop Wing to take part in th
 :::
 
 ::: {style="text-align: left;"}
+<b>Why have you been invited to take part in this research?</b>
+
+You have been invited to this research because you have a newborn baby who will be offered the baby check. 
+
 <b>Do you have to take part in this research?</b>
 
-No, taking part is your decision, and not taking part will not affect the care of you or your baby. You can withdraw from the study at any time, and do not have to give a reason to withdraw.
-<br>
+No, taking part is your decision, and not taking part will not affect the care of you or your baby. You can withdraw from the study at any time, and do not have to give a reason to withdraw. <br>
 :::
 
 ::: {style="text-align: left;"}
 <b>What will happen to you and your baby if you take part in this research?</b>
 
-This research aims to record the heart sounds of babies using a digital stethoscope. This is to find out whether we can use artificial intelligence to help detect heart problems from the recordings. 
+This research aims to record the heart sounds of babies using a digital stethoscope. This is to find out whether we can use artificial intelligence to help detect heart problems from the recordings.
 
-If you decide to take part, you will be asked to sign the consent form. The person examining your baby will take the recording of the heart sounds using a digital stethoscope. They will do this during the full newborn physical examination. You will then be asked to complete a very short 6 question survey after it has finished. 
+If you decide to take part, you will be asked to sign the consent form. The person examining your baby will take the recording of the heart sounds using a digital stethoscope. They will do this during the full newborn physical examination. You will then be asked to complete a very short 6 question survey after it has finished.
 
-In this research study, the recording of the heart sounds will not change what happens to your baby. They will still receive the same care and any necessary scans or treatment that they would if they were not in the research study. Most babies do not need any scans or treatment. 
-
+In this research study, the recording of the heart sounds will not change what happens to your baby. They will still receive the same care and any necessary scans or treatment that they would if they were not in the research study. Most babies do not need any scans or treatment.
 :::
-
-
 
 ::: {style="text-align: left;"}
 <b>Summary of what happens to participants in this study:</b>
@@ -115,11 +107,11 @@ Some of the countries your baby’s data will be shared with have an adequacy de
 
 We use specific contracts approved for use in the UK which give personal data the same level of protection it has in the UK. For further details visit the Information Commissioner’s Office (ICO) website: https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/ We do not allow those who access your baby’s data outside the UK to use it for anything other than what our written contract with them says. We need other organisations to have appropriate security measures to protect your baby’s data which are consistent with the data security and confidentiality obligations we have. This includes having appropriate measures to protect your data against accidental loss and unauthorised access, use, changes or sharing. We have procedures in place to deal with any suspected personal data breach. We will tell you and applicable regulators when there has been a breach of your baby’s personal data when this is legally required. For further details about UK breach reporting rules visit the Information Commissioner's Office (ICO) website: https://ico.org.uk/for-organisations/report-a-breach Personally identifiable information (including names and dates of birth) will never be shared with anyone outside of the research team in Sheffield or clinicians taking care of you or your baby. You can still take part in the study if you would decline data sharing with third parties, this will be declared separately on your consent form.
 
-<b>How will we use information about you after the study ends?</b> 
+<b>How will we use information about you after the study ends?</b>
 
 Once we have finished the study, we will keep some of the data so we can check the results. We will write our reports in a way that no-one can work out that your baby took part in the study. We will keep your study data for a maximum of 5 years. The study data will then be fully anonymised and securely archived or destroyed.
 
-<b>What are your choices about how your information is used?</b> 
+<b>What are your choices about how your information is used?</b>
 
 You can stop yourself and your baby being part of the study at any time, without giving a reason, but we will keep information about you that we already have. You have the right to ask us to access, remove, change or delete data we hold about you for the purposes of the study. You can also object to our processing of your data. We might not always be able to do this if it means we cannot use your data to do the research. If so, we will tell you why we cannot do this. If you agree to take part in this study, you will have the option to take part in future research using your data saved from this study.
 
