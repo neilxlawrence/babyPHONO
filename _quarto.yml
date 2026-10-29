@@ -23,11 +23,11 @@ website:
       - text: "Participant consent forms"
         menu:
           - text: "Patients having an echo"
-            href: nipe-consent.qmd
+            href: echo-consent.qmd
           - text: "Patients having a NIPE"
             href: nipe-consent.qmd
           - text: "Clinician participants"
-            href: nipe-consent.qmd
+            href: clinician-consent.qmd
       - text: "NIPE Information Translated"
         menu:
           - text: "Arabic - patients having a NIPE"
