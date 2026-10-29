@@ -14,47 +14,47 @@ website:
         text: Study team
       - text: "Participant Information"
         menu:
-          - text: "Patients having an echo"
+          - text: "Patients Having an Echo"
             href: echo-information.qmd
-          - text: "Patients having a NIPE"
+          - text: "Patients Having a NIPE"
             href: nipe-information.qmd
-          - text: "Clinician participants"
+          - text: "Clinician Participants"
             href: clinician-information.qmd
-      - text: "Participant consent forms"
+      - text: "Participant Consent Forms"
         menu:
-          - text: "Patients having an echo"
+          - text: "Patients Having an Echo"
             href: echo-consent.qmd
-          - text: "Patients having a NIPE"
+          - text: "Patients Having a NIPE"
             href: nipe-consent.qmd
-          - text: "Clinician participants"
+          - text: "Clinician Participants"
             href: clinician-consent.qmd
       - text: "NIPE Information Translated"
         menu:
-          - text: "Arabic - patients having a NIPE"
+          - text: "Arabic - Patients Having a NIPE"
             href: nipe-information-ARABIC.qmd      
-          - text: "Arabic - patients having an echo"
+          - text: "Arabic - Patients Having an echo"
             href: echo-information-ARABIC.qmd   
-          - text: "Bengali - patients having a NIPE"
+          - text: "Bengali - Patients Having a NIPE"
             href: nipe-information-BENGALI.qmd      
-          - text: "Chinese - patients having a NIPE"
+          - text: "Chinese - Patients Having a NIPE"
             href: nipe-information-CHINESE.qmd      
-          - text: "Kurdish - patients having a NIPE"
+          - text: "Kurdish - Patients Having a NIPE"
             href: nipe-information-KURDISH.qmd      
-          - text: "Polish - patients having a NIPE"
+          - text: "Polish - Patients Having a NIPE"
             href: nipe-information-POLISH.qmd      
-          - text: "Punjabi - patients having a NIPE"
+          - text: "Punjabi - Patients Having a NIPE"
             href: nipe-information-PUNJABI.qmd      
-          - text: "Romanian - patients having a NIPE"
+          - text: "Romanian - Patients Having a NIPE"
             href: nipe-information-ROMANIAN.qmd      
-          - text: "Slovak - patients having a NIPE"
+          - text: "Slovak - Patients Having a NIPE"
             href: nipe-information-SLOVAK.qmd                  
-          - text: "Somali - patients having a NIPE"
+          - text: "Somali - Patients Having a NIPE"
             href: nipe-information-SOMALI.qmd                  
-          - text: "Urdu - patients having a NIPE"
+          - text: "Urdu - Patients Having a NIPE"
             href: nipe-information-URDU.qmd                           
       - text: "Echocardiogram Information Translated"
         menu:
-          - text: "Arabic - patients having an echo"
+          - text: "Arabic - Patients Having an echo"
             href: echo-information-ARABIC.qmd   
     logo: images/babyphono_logo_purple.png
     
