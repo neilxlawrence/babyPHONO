@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs   # ensures GitHub Pages will work
-
+  resources:
+    - "downloads/**"
 website:
   title: "babyPHONO"
   navbar:
@@ -19,6 +20,14 @@ website:
             href: nipe-information.qmd
           - text: "Clinician participants"
             href: clinician-information.qmd
+      - text: "Participant consent forms"
+        menu:
+          - text: "Patients having an echo"
+            href: nipe-consent.qmd
+          - text: "Patients having a NIPE"
+            href: nipe-consent.qmd
+          - text: "Clinician participants"
+            href: nipe-consent.qmd
       - text: "NIPE Information Translated"
         menu:
           - text: "Arabic - patients having a NIPE"
