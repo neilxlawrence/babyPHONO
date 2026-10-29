@@ -5,9 +5,19 @@ title: "Newborn infant physical examination patient information sheet"
 ::: {style="text-align: center;"}
 <b>Digital recordings of heart sounds in babies during the Newborn Infant Physical Examination: the babyPHONO study</b>
 
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} ![](images/NHS_logo.jpg){width="50%" fig-align="center"}
+<div class="study-logos">
+  <img class="nhs"
+       src="images/teaching_hospitals_logo.jpg"
+       alt="Sheffield Teaching Hospitals NHS Foundation Trust">
 
-![](images/babyphono.org_logo_small.png){height="200px"}
+  <img class="university"
+       src="images/university_of_sheffield_logo_white.jpg"
+       alt="University of Sheffield">
+
+  <img class="study"
+       src="images/babyPHONO_logo_white.png"
+       alt="babyPHONO">
+</div>  
 
 <br>
 :::
@@ -27,7 +37,7 @@ All babies are offered a ‘newborn infant physical examination’ which is some
 ::: {style="text-align: left;"}
 <b>Why have you been invited to take part in this research?</b>
 
-You have been invited to this research because you have a newborn baby who will be offered the baby check. 
+You have been invited to this research because you have a newborn baby who will be offered the baby check.
 
 <b>Do you have to take part in this research?</b>
 

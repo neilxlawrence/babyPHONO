@@ -60,6 +60,7 @@ website:
     
 format:
   html:
+    page-layout: full
     pretty_urls: true
     include-in-header: meta.html
     theme:
