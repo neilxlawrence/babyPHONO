@@ -5,9 +5,19 @@ title: "Echocardiogram patient information sheet"
 ::: {style="text-align: center;"}
 <b>Digital recordings of heart sounds in babies during the Newborn Infant Physical Examination: the babyPHONO study</b>
 
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} ![](images/NHS_logo.jpg){width="50%" fig-align="center"}
+<div class="study-logos">
+  <img class="nhs"
+       src="images/teaching_hospitals_logo.jpg"
+       alt="Sheffield Teaching Hospitals NHS Foundation Trust">
 
-![](images/babyphono.org_logo_small.png){height="200px"}
+  <img class="study"
+       src="images/babyPHONO_logo_white.png"
+       alt="babyPHONO">
+
+  <img class="university"
+       src="images/university_of_sheffield_logo_white.jpg"
+       alt="University of Sheffield">
+</div>  
 
 <br>
 :::
@@ -21,7 +31,7 @@ Less than 1 in 100 babies have a problem with the structure of the heart. If we 
 :::
 
 ::: {style="text-align: center;"}
-![](images/baby_listen.png){width="50%" fig-align="center"}
+![](images/baby_listen.png){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -43,7 +53,7 @@ In this research study, the recording of the heart sounds will not change what h
 :::
 
 ::: {style="text-align: center;"}
-![](images/ultrasound.jpg){width="50%" fig-align="center"}
+![](images/ultrasound.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -51,7 +61,7 @@ In this research study, the recording of the heart sounds will not change what h
 :::
 
 ::: {style="text-align: center;"}
-![](images/echo_flowchart.jpg){width="80%" fig-align="center"}
+![](images/echo_flowchart.jpg){width="80%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -61,7 +71,7 @@ Taking part in this research may mean the baby check takes around 2 to 5 minutes
 :::
 
 ::: {style="text-align: center;"}
-![](images/eko_stethoscope.jpg){width="50%" fig-align="center"}
+![](images/eko_stethoscope.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -136,7 +146,7 @@ This research study is taking place at: Jessop Wing Hospital Tree Root Walk, Bro
 :::
 
 ::: {style="text-align: center;"}
-![](images/teaching_hospitals_logo.jpg){width="50%" fig-align="center"}
+![](images/teaching_hospitals_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -146,7 +156,7 @@ Luke Thompson dataprotection\@sheffield.ac.uk\
 :::
 
 ::: {style="text-align: center;"}
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} <br>
+![](images/university_of_sheffield_logo_white.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::
 
 ::: {style="text-align: left;"}
@@ -154,5 +164,5 @@ This research study is funded by: Sheffield Children’s Hospital Charity 4 Marl
 :::
 
 ::: {style="text-align: center;"}
-![](images/charity_logo.jpg){width="50%" fig-align="center"} <br>
+![](images/charity_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::

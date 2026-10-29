@@ -8,9 +8,19 @@ toc: false
 ::: {style="text-align: center;"}
 <b>تۆمارکردنی دیجیتاڵی دەنگەکانی دڵی منداڵان لە کاتی پشکنینی جەستەیی منداڵی تازەلەدایکبوو: توێژینەوەی babyPHONO</b>
 
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} ![](images/NHS_logo.jpg){width="50%" fig-align="center"}
+<div class="study-logos">
+  <img class="nhs"
+       src="images/teaching_hospitals_logo.jpg"
+       alt="Sheffield Teaching Hospitals NHS Foundation Trust">
 
-![](images/babyphono.org_logo_small.png){height="200px"}
+  <img class="study"
+       src="images/babyPHONO_logo_white.png"
+       alt="babyPHONO">
+
+  <img class="university"
+       src="images/university_of_sheffield_logo_white.jpg"
+       alt="University of Sheffield">
+</div>  
 
 <br>
 :::
@@ -24,7 +34,7 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/baby_listen.png){width="50%" fig-align="center"}
+![](images/baby_listen.png){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl" style="text-align: right;"}
@@ -48,7 +58,7 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/nipe_flowchart_KURDISH.jpg){width="80%" fig-align="center"}
+![](images/nipe_flowchart_KURDISH.jpg){width="80%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl" style="text-align: right;"}
@@ -60,7 +70,7 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/eko_stethoscope.jpg){width="50%" fig-align="center"}
+![](images/eko_stethoscope.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl" style="text-align: right;"}
@@ -138,7 +148,7 @@ https://ico.org.uk/for-organisations/report-a-breach
 
 • ناردنی ئیمەیڵ بۆ sth.babyphono\@nhs.net.
 
-• پەیوەندیکردن بە ژمارەی <span dir="ltr">+447729849599</span>.
+• پەیوەندیکردن بە ژمارەی [+447729849599]{dir="ltr"}.
 
 <b>ئەگەر پرسیاری تریشم دەربارەی توێژینەوەکە هەبێت چی بکەم؟</b>
 
@@ -150,22 +160,17 @@ https://ico.org.uk/for-organisations/report-a-breach
 
 <b>ئەگەر سکاڵام دەربارەی توێژینەوەکە هەبێت چی بکەم؟</b>
 
-ئەگەر ناڕازین و دەتانەوێت سکاڵا بکەن، تکایە سەرەتا پەیوەندی بە دکتۆر Alys Griffiths بکەن:
-alys.griffiths\@sheffield.ac.uk
+ئەگەر ناڕازین و دەتانەوێت سکاڵا بکەن، تکایە سەرەتا پەیوەندی بە دکتۆر Alys Griffiths بکەن: alys.griffiths\@sheffield.ac.uk
 
-ئەگەر پێتان وایە سکاڵاکەتان بە شێوەیەکی ڕازیكەر چارەسەر نەکراوە، دەتوانن پەیوەندی بە پرۆفیسۆر Heather Mortiboys بکەن:
-h.mortiboys\@sheffield.ac.uk
-یان بە ژمارەی <span dir="ltr">0114 222 2290</span>.
+ئەگەر پێتان وایە سکاڵاکەتان بە شێوەیەکی ڕازیكەر چارەسەر نەکراوە، دەتوانن پەیوەندی بە پرۆفیسۆر Heather Mortiboys بکەن: h.mortiboys\@sheffield.ac.uk یان بە ژمارەی [0114 222 2290]{dir="ltr"}.
 
 ئەگەر سکاڵاکە پەیوەندی بە چۆنیەتی مامەڵەکردن لەگەڵ زانیارییە کەسییەکانتانەوە هەبێت، دەتوانن زانیاری دەربارەی چۆنیەتی پێشکەشکردنی سکاڵا لە ئاگادارنامەی تایبەتمەندیی زانکۆکەدا بدۆزنەوە:
 
 https://www.sheffield.ac.uk/govern/data-protection/privacy/general
 
-ئەگەر دەتانەوێت نیگەرانی یان ڕووداوێک ڕاپۆرت بکەن کە پەیوەندی بە ئەگەری چەوساندنەوە، خراپ مامەڵەکردن یان زیانەوە هەیە کە لە ئەنجامی بەشداریکردنتان لەم پڕۆژەیەدا دروست بووبێت، تکایە پەیوەندی بە بەرپرسی دیاریکراوی پاراستن لە زیان، دکتۆر Haris Stavroulakis بکەن:
-t.stavroulakis\@sheffield.ac.uk
+ئەگەر دەتانەوێت نیگەرانی یان ڕووداوێک ڕاپۆرت بکەن کە پەیوەندی بە ئەگەری چەوساندنەوە، خراپ مامەڵەکردن یان زیانەوە هەیە کە لە ئەنجامی بەشداریکردنتان لەم پڕۆژەیەدا دروست بووبێت، تکایە پەیوەندی بە بەرپرسی دیاریکراوی پاراستن لە زیان، دکتۆر Haris Stavroulakis بکەن: t.stavroulakis\@sheffield.ac.uk
 
-ئەگەر هێشتا نیگەرانن، تکایە پەیوەندی بە بەڕێوەبەری ئەخلاق و دەستپاکیی توێژینەوە، Lindsay Unwin بکەن:
-l.v.unwin\@sheffield.ac.uk
+ئەگەر هێشتا نیگەرانن، تکایە پەیوەندی بە بەڕێوەبەری ئەخلاق و دەستپاکیی توێژینەوە، Lindsay Unwin بکەن: l.v.unwin\@sheffield.ac.uk
 
 <b>ئایا ئەم توێژینەوەیە لەلایەن لیژنەیەکی ئەخلاقییەوە پەسەند کراوە؟</b>
 
@@ -176,35 +181,32 @@ l.v.unwin\@sheffield.ac.uk
 بۆ زانیاری زیاتر دەربارەی ئەم توێژینەوەیە، تکایە پەیوەندی بکەن: ئیمەیڵ:\
 [sth.babyphono\@nhs.net](mailto:sth.babyphono@nhs.net){.email}\
 ژمارەی تەلەفۆنی توێژینەوەکە:\
-<span dir="ltr">+447729849599</span>
+[+447729849599]{dir="ltr"}
 
-ئەم توێژینەوەیە لەم شوێنە ئەنجام دەدرێت: نەخۆشخانەی جێسۆپ وینگ: <br>
-<span dir="ltr">Jessop Wing Hospital, Tree Root Walk, Broomhall, Sheffield, S10 2SF</span> <br>
+ئەم توێژینەوەیە لەم شوێنە ئەنجام دەدرێت: نەخۆشخانەی جێسۆپ وینگ: <br> [Jessop Wing Hospital, Tree Root Walk, Broomhall, Sheffield, S10 2SF]{dir="ltr"} <br>
 :::
 
 ::: {style="text-align: center;"}
-![](images/teaching_hospitals_logo.jpg){width="50%" fig-align="center"}
+![](images/teaching_hospitals_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl" style="text-align: right;"}
-<br> <br> سپۆنسەری ئەم توێژینەوەیە: زانکۆی شێفیڵد <br>
-<span dir="ltr">The University of Sheffield, Western Bank, Sheffield, S10 2TN</span>
+<br> <br> سپۆنسەری ئەم توێژینەوەیە: زانکۆی شێفیڵد <br> [The University of Sheffield, Western Bank, Sheffield, S10 2TN]{dir="ltr"}
 
 بەرپرسی پاراستنی زانیاری:\
 Luke Thompson\
 dataprotection\@sheffield.ac.uk\
-<span dir="ltr">+44 114 222 1117</span> <br>
+[+44 114 222 1117]{dir="ltr"} <br>
 :::
 
 ::: {style="text-align: center;"}
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} <br>
+![](images/university_of_sheffield_logo_white.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::
 
 ::: {dir="rtl" style="text-align: right;"}
-بودجەی ئەم توێژینەوەیە لەلایەن ڕێکخراوی خێرخوازیی نەخۆشخانەی منداڵانی شێفیڵدەوە دابین دەکرێت: <br>
-<span dir="ltr">Sheffield Children’s Hospital Charity, 4 Marlborough Rd, Sheffield, S10 1DB</span> <br>
+بودجەی ئەم توێژینەوەیە لەلایەن ڕێکخراوی خێرخوازیی نەخۆشخانەی منداڵانی شێفیڵدەوە دابین دەکرێت: <br> [Sheffield Children’s Hospital Charity, 4 Marlborough Rd, Sheffield, S10 1DB]{dir="ltr"} <br>
 :::
 
 ::: {style="text-align: center;"}
-![](images/charity_logo.jpg){width="50%" fig-align="center"} <br>
+![](images/charity_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::

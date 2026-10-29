@@ -17,9 +17,19 @@ main.content .centered { text-align: center; }
 ::: {.centered dir="rtl"}
 **التسجيلات الرقمية لأصوات القلب لدى الرضّع أثناء الفحص البدني لحديثي الولادة والرضّع: دراسة babyPHONO**
 
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} ![](images/NHS_logo.jpg){width="50%" fig-align="center"}
+<div class="study-logos">
+  <img class="nhs"
+       src="images/teaching_hospitals_logo.jpg"
+       alt="Sheffield Teaching Hospitals NHS Foundation Trust">
 
-![](images/babyphono.org_logo_small.png){height="200px"}
+  <img class="study"
+       src="images/babyPHONO_logo_white.png"
+       alt="babyPHONO">
+
+  <img class="university"
+       src="images/university_of_sheffield_logo_white.jpg"
+       alt="University of Sheffield">
+</div>  
 :::
 
 ::: {dir="rtl"}
@@ -33,7 +43,7 @@ main.content .centered { text-align: center; }
 :::
 
 ::: {.centered dir="rtl"}
-![](images/baby_listen.png){width="50%" fig-align="center"}
+![](images/baby_listen.png){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl"}
@@ -53,7 +63,7 @@ main.content .centered { text-align: center; }
 :::
 
 ::: {.centered dir="rtl"}
-![](images/ultrasound.jpg){width="50%" fig-align="center"}
+![](images/ultrasound.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl"}
@@ -63,7 +73,7 @@ main.content .centered { text-align: center; }
 ::: {.centered dir="rtl"}
 <!-- The referenced flowchart image may contain English text. Translate the image separately before publishing an entirely Arabic page. -->
 
-![](images/echo_flowchart_ARABIC.jpg){width="80%" fig-align="center"}
+![](images/echo_flowchart_ARABIC.jpg){width="80%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl"}
@@ -75,7 +85,7 @@ main.content .centered { text-align: center; }
 :::
 
 ::: {.centered dir="rtl"}
-![](images/eko_stethoscope.jpg){width="50%" fig-align="center"}
+![](images/eko_stethoscope.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl"}
@@ -194,7 +204,7 @@ main.content .centered { text-align: center; }
 :::
 
 ::: {.centered dir="rtl"}
-![](images/teaching_hospitals_logo.jpg){width="50%" fig-align="center"}
+![](images/teaching_hospitals_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl"}
@@ -208,7 +218,7 @@ main.content .centered { text-align: center; }
 :::
 
 ::: {.centered dir="rtl"}
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"}
+![](images/university_of_sheffield_logo_white.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {dir="rtl"}
@@ -216,5 +226,5 @@ main.content .centered { text-align: center; }
 :::
 
 ::: {.centered dir="rtl"}
-![](images/charity_logo.jpg){width="50%" fig-align="center"}
+![](images/charity_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::

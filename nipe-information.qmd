@@ -10,13 +10,13 @@ title: "Newborn infant physical examination patient information sheet"
        src="images/teaching_hospitals_logo.jpg"
        alt="Sheffield Teaching Hospitals NHS Foundation Trust">
 
-  <img class="university"
-       src="images/university_of_sheffield_logo_white.jpg"
-       alt="University of Sheffield">
-
   <img class="study"
        src="images/babyPHONO_logo_white.png"
        alt="babyPHONO">
+
+  <img class="university"
+       src="images/university_of_sheffield_logo_white.jpg"
+       alt="University of Sheffield">
 </div>  
 
 <br>
@@ -31,7 +31,7 @@ All babies are offered a ‘newborn infant physical examination’ which is some
 :::
 
 ::: {style="text-align: center;"}
-![](images/baby_listen.png){width="50%" fig-align="center"}
+![](images/baby_listen.png){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -59,7 +59,7 @@ In this research study, the recording of the heart sounds will not change what h
 :::
 
 ::: {style="text-align: center;"}
-![](images/nipe_flowchart.jpg){width="80%" fig-align="center"}
+![](images/nipe_flowchart.jpg){width="80%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -69,7 +69,7 @@ Taking part in this research may mean the baby check takes around 2 to 5 minutes
 :::
 
 ::: {style="text-align: center;"}
-![](images/eko_stethoscope.jpg){width="50%" fig-align="center"}
+![](images/eko_stethoscope.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -148,7 +148,7 @@ This research study is taking place at: Jessop Wing Hospital Tree Root Walk, Bro
 :::
 
 ::: {style="text-align: center;"}
-![](images/teaching_hospitals_logo.jpg){width="50%" fig-align="center"}
+![](images/teaching_hospitals_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -158,7 +158,7 @@ Luke Thompson dataprotection\@sheffield.ac.uk\
 :::
 
 ::: {style="text-align: center;"}
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} <br>
+![](images/university_of_sheffield_logo_white.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::
 
 ::: {style="text-align: left;"}
@@ -166,5 +166,5 @@ This research study is funded by: Sheffield Children’s Hospital Charity 4 Marl
 :::
 
 ::: {style="text-align: center;"}
-![](images/charity_logo.jpg){width="50%" fig-align="center"} <br>
+![](images/charity_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::

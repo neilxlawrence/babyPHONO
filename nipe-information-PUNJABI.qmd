@@ -7,9 +7,19 @@ toc: false
 ::: {style="text-align: center;"}
 <b>ਨਵਜੰਮੇ ਬੱਚੇ ਦੀ ਸਰੀਰਕ ਜਾਂਚ ਦੌਰਾਨ ਬੱਚਿਆਂ ਦੇ ਦਿਲ ਦੀਆਂ ਆਵਾਜ਼ਾਂ ਦੀ ਡਿਜੀਟਲ ਰਿਕਾਰਡਿੰਗ: babyPHONO ਅਧਿਐਨ</b>
 
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} ![](images/NHS_logo.jpg){width="50%" fig-align="center"}
+<div class="study-logos">
+  <img class="nhs"
+       src="images/teaching_hospitals_logo.jpg"
+       alt="Sheffield Teaching Hospitals NHS Foundation Trust">
 
-![](images/babyphono.org_logo_small.png){height="200px"}
+  <img class="study"
+       src="images/babyPHONO_logo_white.png"
+       alt="babyPHONO">
+
+  <img class="university"
+       src="images/university_of_sheffield_logo_white.jpg"
+       alt="University of Sheffield">
+</div>  
 
 <br>
 :::
@@ -23,7 +33,7 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/baby_listen.png){width="50%" fig-align="center"}
+![](images/baby_listen.png){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -47,7 +57,7 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/nipe_flowchart_PUNJABI.jpg){width="80%" fig-align="center"}
+![](images/nipe_flowchart_PUNJABI.jpg){width="80%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -57,7 +67,7 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/eko_stethoscope.jpg){width="50%" fig-align="center"}
+![](images/eko_stethoscope.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -162,7 +172,7 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/teaching_hospitals_logo.jpg){width="50%" fig-align="center"}
+![](images/teaching_hospitals_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -175,7 +185,7 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} <br>
+![](images/university_of_sheffield_logo_white.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::
 
 ::: {style="text-align: left;"}
@@ -183,5 +193,5 @@ toc: false
 :::
 
 ::: {style="text-align: center;"}
-![](images/charity_logo.jpg){width="50%" fig-align="center"} <br>
+![](images/charity_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::

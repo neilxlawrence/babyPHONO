@@ -99,9 +99,22 @@ Our group includes clinicians, researchers, and data scientists collaborating to
 <style>
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 220px));
+  justify-content: center;
   gap: 1.5rem;
   margin-top: 1.5rem;
+}
+
+@media (max-width: 1000px) {
+  .team-grid {
+    grid-template-columns: repeat(2, minmax(0, 220px));
+  }
+}
+
+@media (max-width: 550px) {
+  .team-grid {
+    grid-template-columns: minmax(0, 220px);
+  }
 }
 
 .team-name {

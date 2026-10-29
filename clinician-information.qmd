@@ -5,23 +5,33 @@ title: "Clinician participant information sheet"
 ::: {style="text-align: center;"}
 <b>Digital recordings of heart sounds in babies during the Newborn Infant Physical Examination: the babyPHONO study</b>
 
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} ![](images/NHS_logo.jpg){width="50%" fig-align="center"}
+<div class="study-logos">
+  <img class="nhs"
+       src="images/teaching_hospitals_logo.jpg"
+       alt="Sheffield Teaching Hospitals NHS Foundation Trust">
 
-![](images/babyphono.org_logo_small.png){height="200px"}
+  <img class="study"
+       src="images/babyPHONO_logo_white.png"
+       alt="babyPHONO">
+
+  <img class="university"
+       src="images/university_of_sheffield_logo_white.jpg"
+       alt="University of Sheffield">
+</div>  
 
 <br>
 :::
 
 ::: {style="text-align: left;"}
-We would like to invite you to take part in our research study because you carry out newborn infant physical examinations.  Before you decide, we would like you to understand why the research is being done and what it will involve. <br> <br>One of our team will go through this information with you and answer any questions you may have. <br> <br> Ask us if there is anything that is not clear or if you would like more information.  Take time to decide whether or not you want to take part, and speak to others if you wish. Participation is completely voluntary.
+We would like to invite you to take part in our research study because you carry out newborn infant physical examinations. Before you decide, we would like you to understand why the research is being done and what it will involve. <br> <br>One of our team will go through this information with you and answer any questions you may have. <br> <br> Ask us if there is anything that is not clear or if you would like more information. Take time to decide whether or not you want to take part, and speak to others if you wish. Participation is completely voluntary.
 
 <b>Why are we doing this research?</b>
 
-Hearing heart murmurs in babies can be difficult due to the high heart rate, and background breathing sounds. Applying artificial intelligence to analyse heart sound recordings might make detecting problems with the heart easier and more objective. If this study is successful, we hope that it will lead to further studies that in the future help us detect heart problems in babies more effectively.	
+Hearing heart murmurs in babies can be difficult due to the high heart rate, and background breathing sounds. Applying artificial intelligence to analyse heart sound recordings might make detecting problems with the heart easier and more objective. If this study is successful, we hope that it will lead to further studies that in the future help us detect heart problems in babies more effectively.
 :::
 
 ::: {style="text-align: center;"}
-![](images/baby_listen.png){width="50%" fig-align="center"}
+![](images/baby_listen.png){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -36,25 +46,23 @@ After being shown how to use the digital stethoscope, we’d then like you to us
 There is an instruction sheet that the research team will give to you that details how to use the stethoscope and the app. The research is relatively straight forward, but if any mothers or carers have further questions about the research you can ask one of the research team to discuss these with them. Participants can withdraw at any time.<br><br>
 :::
 
-
 ::: {style="text-align: left;"}
 <b>Summary of what happens to participants in this study:</b>
 :::
 
 ::: {style="text-align: center;"}
-![](images/clinician_flowchart.jpg){width="80%" fig-align="center"}
+![](images/clinician_flowchart.jpg){width="80%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
-<br> <b>What are the risks of this research?</b> 
-The digital stethoscope is very similar to a normal stethoscope, and does not pose any risk to the baby. The stethoscope has a digital device attached to its tubing that captures sound. This gets transmitted wirelessly to a mobile phone or tablet. The recording then gets stored online in ‘the cloud’, using a computer server in the United states of America. This device has been approved by the medicines and healthcare products regulatory agency for use in the United Kingdom. Taking part in this research may mean the baby check takes around 2 to 5 minutes longer. Completing the questionnaire/interview will take a small amount of time, but can be done flexibly around clinical commitments. 
+<br> <b>What are the risks of this research?</b> The digital stethoscope is very similar to a normal stethoscope, and does not pose any risk to the baby. The stethoscope has a digital device attached to its tubing that captures sound. This gets transmitted wirelessly to a mobile phone or tablet. The recording then gets stored online in ‘the cloud’, using a computer server in the United states of America. This device has been approved by the medicines and healthcare products regulatory agency for use in the United Kingdom. Taking part in this research may mean the baby check takes around 2 to 5 minutes longer. Completing the questionnaire/interview will take a small amount of time, but can be done flexibly around clinical commitments.
 :::
 
 ::: {style="text-align: center;"}
-![](images/eko_stethoscope.jpg){width="50%" fig-align="center"}
+![](images/eko_stethoscope.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
-::: {style="text-align: left;"}
+:::: {style="text-align: left;"}
 <b>Where and when will the interviews take place?</b>
 
 If you would like to take part in an interview, they will take place in one of the meeting rooms at the Jessop Wing or in the Royal Hallamshire Hospital. We will be flexible around the timing of interviews, to comply with participant availability and clinical commitments.
@@ -65,17 +73,17 @@ For those who volunteer to have an interview, the interview will last less than 
 
 <b>What is the benefit in taking part in this research?</b>
 
-Taking part in the research will not directly benefit the babies or clinicians that take part, but we hope that this research will help babies born in the future. 
+Taking part in the research will not directly benefit the babies or clinicians that take part, but we hope that this research will help babies born in the future.
 
 ::: {style="text-align: center;"}
-![](images/ultrasound.jpg){width="50%" fig-align="center"}
+![](images/ultrasound.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 <b>What will happen to the data from this research?</b>
 
 The recorded heart sounds and information about the age of babies (in hours), along with any future diagnosis of heart problems will be pseudonymised (identifiable data removed). This information may be shared with external researchers or companies in the future to add to other research. Personally identifiable information (including names and dates of birth) will never be shared with anyone outside of the research team or clinicians taking care of you or your baby.
 
-Data from the surveys or interviews completed by the clinicians taking part in the research will be pseudonymised. This will be analysed at the University of Sheffield to understand whether it is feasible to incorporate the recording of heart sounds into the newborn infant physical examination. These results will be shared at research conferences and in journal articles. Results will also be reported on the research study website and on social media. 
+Data from the surveys or interviews completed by the clinicians taking part in the research will be pseudonymised. This will be analysed at the University of Sheffield to understand whether it is feasible to incorporate the recording of heart sounds into the newborn infant physical examination. These results will be shared at research conferences and in journal articles. Results will also be reported on the research study website and on social media.
 
 <b>What if I do not want to take part in the research?</b>
 
@@ -91,7 +99,7 @@ People who do not need to know who you are will not be able to see your name or 
 
 The University of Sheffield is the sponsor for this research. The University of Sheffield is responsible for looking after your information. We will share your information related to this research project with the following types of organisations:
 
-• The NHS health provider organisations involved in this research study. 
+• The NHS health provider organisations involved in this research study.
 
 We will keep all information about you safe and secure by:
 
@@ -99,8 +107,7 @@ We will keep all information about you safe and secure by:
 
 • Only allowing members of the research study team access to the password protected spreadsheet.
 
-•	The comments you provide in any surveys or interviews will be pseudonymised
-
+• The comments you provide in any surveys or interviews will be pseudonymised
 
 <b>International transfers</b>
 
@@ -140,10 +147,9 @@ Once we have finished the study, we will keep some of the data so we can check t
 
 We will keep personally identifiable study data for a maximum of 12 months after the end of the study. The study data will then be fully pseudonymised and securely archived or destroyed.
 
-
 <b>What are your choices about how your information is used?</b>
 
-You can stop being part of the study at any time, without giving a reason. We can remove your data if it has not yet been analysed, shared or published. However, we will keep information about any patient participants that you have already examined (including any heart sound recordings that you have already recorded). 
+You can stop being part of the study at any time, without giving a reason. We can remove your data if it has not yet been analysed, shared or published. However, we will keep information about any patient participants that you have already examined (including any heart sound recordings that you have already recorded).
 
 You have the right to ask us to access, remove, change or delete data we hold about you for the purposes of the study. You can also object to our processing of your data. We might not always be able to do this if it means we cannot use your data to do the research. If so, we will tell you why we cannot do this.
 
@@ -151,11 +157,7 @@ If you agree to take part in this study, you will have the option to take part i
 
 <b>Where can you find out more about how your information is used?</b>
 
- You can find out more about how we use your information, including the specific mechanism used by us when transferring your personal data out of the UK: 
- • our leaflet www.hra.nhs.uk/patientdataandresearch 
- • by asking one of the research team 
- • by sending an email to sth.babyphono\@nhs.net, or 
- • by ringing us on +447729849599
+You can find out more about how we use your information, including the specific mechanism used by us when transferring your personal data out of the UK: • our leaflet www.hra.nhs.uk/patientdataandresearch • by asking one of the research team • by sending an email to sth.babyphono\@nhs.net, or • by ringing us on +447729849599
 
 <b>What if I have other questions about the research?</b>
 
@@ -167,7 +169,7 @@ Any questionnaire or interview you are asked to complete during this study shoul
 
 <b>What if I have a complaint about the research? </b>
 
-If you are unhappy and wish to make a complaint, please contact Dr Alys Griffiths (alys.griffiths\@sheffield.ac.uk) in the first instance. If you feel your complaint has not been handled in a satisfactory way you can contact Professor Heather Mortiboys (h.mortiboys\@sheffield.ac.uk) or 0114 222 2290. If the complaint relates to how your personal data has been handled, you can find information about how to raise a complaint in the University’s Privacy Notice: https://www.sheffield.ac.uk/govern/data-protection/privacy/general. 
+If you are unhappy and wish to make a complaint, please contact Dr Alys Griffiths (alys.griffiths\@sheffield.ac.uk) in the first instance. If you feel your complaint has not been handled in a satisfactory way you can contact Professor Heather Mortiboys (h.mortiboys\@sheffield.ac.uk) or 0114 222 2290. If the complaint relates to how your personal data has been handled, you can find information about how to raise a complaint in the University’s Privacy Notice: https://www.sheffield.ac.uk/govern/data-protection/privacy/general.
 
 If you wish to make a report of a concern or incident relating to potential exploitation, abuse or harm resulting from your involvement in this project, please contact the Designated Safeguarding Contact Dr Haris Stavroulakis (t.stavroulakis\@sheffield.ac.uk). If you remain concerned, please contact the Research Ethics & Integrity Manager Lindsay Unwin (l.v.unwin\@sheffield.ac.uk). Has this research been approved by an ethics committee? The research has been reviewed by the South East Scotland Research Ethics Committee 1. The reference number for the research is: 358145.
 
@@ -179,10 +181,10 @@ Study phone number:\
 +447729849599
 
 This research study is taking place at: Jessop Wing Hospital Tree Root Walk, Broomhall, Sheffield, S10 2SF <br>
-:::
+::::
 
 ::: {style="text-align: center;"}
-![](images/teaching_hospitals_logo.jpg){width="50%" fig-align="center"}
+![](images/teaching_hospitals_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"}
 :::
 
 ::: {style="text-align: left;"}
@@ -192,7 +194,7 @@ Luke Thompson dataprotection\@sheffield.ac.uk\
 :::
 
 ::: {style="text-align: center;"}
-![](images/university_of_sheffield_logo_white.jpg){width="50%" fig-align="center"} <br>
+![](images/university_of_sheffield_logo_white.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::
 
 ::: {style="text-align: left;"}
@@ -200,5 +202,5 @@ This research study is funded by: Sheffield Children’s Hospital Charity 4 Marl
 :::
 
 ::: {style="text-align: center;"}
-![](images/charity_logo.jpg){width="50%" fig-align="center"} <br>
+![](images/charity_logo.jpg){width="50%" style="max-width: 650px; height: auto;" fig-align="center"} <br>
 :::
