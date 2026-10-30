@@ -82,3 +82,7 @@ h2.subtitle {
   .study-logos .nhs { width: 14.4rem; }
   .study-logos .university { width: 10.3rem; }
 }
+
+.study-card {
+  text-align: center;
+}

@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs   # ensures GitHub Pages will work
+  output-dir: docs 
   resources:
     - "downloads/**"
 website:
@@ -20,7 +20,7 @@ website:
             href: nipe-information.qmd
           - text: "Clinician Participants"
             href: clinician-information.qmd
-      - text: "Participant Consent Forms"
+      - text: "Consent Forms"
         menu:
           - text: "Babies Having an Echo"
             href: echo-consent.qmd
@@ -28,38 +28,12 @@ website:
             href: nipe-consent.qmd
           - text: "Clinician Participants"
             href: clinician-consent.qmd
-      - text: "Participant Questionnaires"
+      - text: "Questionnaires"
         menu:
           - text: "Babies Having an Echo"
-            href: echo-consent.qmd
-      - text: "NIPE Information Translated"
-        menu:
-          - text: "Arabic - Babies Having a NIPE"
-            href: nipe-information-ARABIC.qmd      
-          - text: "Arabic - Babies Having an echo"
-            href: echo-information-ARABIC.qmd   
-          - text: "Bengali - Babies Having a NIPE"
-            href: nipe-information-BENGALI.qmd      
-          - text: "Chinese - Babies Having a NIPE"
-            href: nipe-information-CHINESE.qmd      
-          - text: "Kurdish - Babies Having a NIPE"
-            href: nipe-information-KURDISH.qmd      
-          - text: "Polish - Babies Having a NIPE"
-            href: nipe-information-POLISH.qmd      
-          - text: "Punjabi - Babies Having a NIPE"
-            href: nipe-information-PUNJABI.qmd      
-          - text: "Romanian - Babies Having a NIPE"
-            href: nipe-information-ROMANIAN.qmd      
-          - text: "Slovak - Babies Having a NIPE"
-            href: nipe-information-SLOVAK.qmd                  
-          - text: "Somali - Babies Having a NIPE"
-            href: nipe-information-SOMALI.qmd                  
-          - text: "Urdu - Babies Having a NIPE"
-            href: nipe-information-URDU.qmd                           
-      - text: "Echocardiogram Information Translated"
-        menu:
-          - text: "Arabic - Babies Having an echo"
-            href: echo-information-ARABIC.qmd   
+            href: echo-questionnaire.qmd
+      - href: translations.qmd
+        text: Translations
     logo: images/babyphono_logo_purple.png
     
 format:

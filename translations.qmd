@@ -1,0 +1,42 @@
+---
+title: "Information in other languages"
+toc: false
+---
+
+::: {style="text-align: center;"}
+
+Choose a language below to read the study information.
+
+## Newborn baby check (NIPE) {style="text-align: center;"}
+
+[Arabic — العربية](nipe-information-ARABIC.qmd)
+<br>
+[Bengali — বাংলা](nipe-information-BENGALI.qmd)
+<br>
+[Chinese — 中文](nipe-information-CHINESE.qmd)
+<br>
+[Kurdish — کوردی / Kurdî](nipe-information-KURDISH.qmd)
+<br>
+[Polish — Polski](nipe-information-POLISH.qmd)
+<br>
+[Punjabi — ਪੰਜਾਬੀ / پنجابی](nipe-information-PUNJABI.qmd)
+<br>
+[Romanian — Română](nipe-information-ROMANIAN.qmd)
+<br>
+[Slovak — Slovenčina](nipe-information-SLOVAK.qmd)
+<br>
+[Somali — Soomaali](nipe-information-SOMALI.qmd)
+<br>
+[Urdu — اردو](nipe-information-URDU.qmd)
+
+## Echocardiogram (heart scan) {style="text-align: center;"}
+
+[Arabic — العربية](echo-information-ARABIC.qmd)
+
+## Questions or support {style="text-align: center;"}
+
+If you need information in another language or support understanding
+the study, please contact the research team at
+[sth.babyphono@nhs.net](mailto:sth.babyphono@nhs.net).
+
+:::
