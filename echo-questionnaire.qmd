@@ -1,5 +1,5 @@
 ---
-title: "Carer questionnaire (NIPE)"
+title: "Carer questionnaire (echo)"
 format:
   html:
     page-layout: custom
@@ -12,18 +12,18 @@ lang: en-GB
 ```{=html}
 <style>
 
-.nipe-questionnaire .question {
+.echo-questionnaire .question {
   margin: 24px 0;
   padding: 0 0 24px;
   border-bottom: 1px solid var(--border);
   break-inside: avoid;
 }
 
-.nipe-questionnaire .question .responses {
+.echo-questionnaire .question .responses {
   margin-top: 12px;
 }
 
-.nipe-questionnaire .comments-box {
+.echo-questionnaire .comments-box {
   width: 100%;
   min-height: 120px;
   background: white;
@@ -32,14 +32,14 @@ lang: en-GB
 }
 
 /* Match the class actually used by your logos */
-.nipe-questionnaire .study-logos img {
+.echo-questionnaire .study-logos img {
   max-width: 100%;
   height: auto;
   object-fit: contain;
 }
 
 
-.nipe-questionnaire { 
+.echo-questionnaire { 
 --ink:#172b41; 
 --blue:#005eb8; 
 --border:#cbd5df; 
@@ -48,62 +48,62 @@ max-width:1200px;
 margin:0 auto;
 padding:0 24px;
 color:var(--ink); font-family:Arial,Helvetica,sans-serif; font-size:1rem; line-height:1.65; }
-.nipe-questionnaire, .nipe-questionnaire * { box-sizing:border-box; }
-.nipe-questionnaire .logos { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:24px; margin-bottom:32px; }
-.nipe-questionnaire .logos img { height:auto; object-fit:contain; max-width:100%; }
-.nipe-questionnaire .nhs { width:290px; } .nipe-questionnaire .university { width:200px; } .nipe-questionnaire .study { width:76px; }
-.nipe-questionnaire h1 { color:var(--ink); font-size:clamp(1.7rem,4vw,2.35rem); line-height:1.2; margin:0 0 24px; }
-.nipe-questionnaire h2 { font-size:1.35rem; color:var(--ink); margin:32px 0 16px; }
-.nipe-questionnaire p { margin:0 0 16px; }
-.nipe-questionnaire .study-details { margin-bottom:24px; }
-.nipe-questionnaire .study-details p { margin-bottom:6px; }
-.nipe-questionnaire .notice { padding:16px 20px; background:#edf5fc; border-left:4px solid var(--blue); margin:24px 0; }
-.nipe-questionnaire .notice p:last-child { margin-bottom:0; }
-.nipe-questionnaire label { font-weight:600; display:block; }
-.nipe-questionnaire input { display:block; width:100%; max-width:100%; min-width:0; font:inherit; line-height:1.4; color:var(--ink); background:#fff; border:1px solid #70859a; border-radius:4px; padding:10px 12px; min-height:46px; margin-top:7px; }
-.nipe-questionnaire input:disabled { opacity:1; color:var(--ink); -webkit-text-fill-color:var(--ink); cursor:default; }
-.nipe-questionnaire input:focus-visible, .nipe-questionnaire button:focus-visible { outline:3px solid #ffdd00; outline-offset:3px; box-shadow:0 0 0 5px #172b41; }
-.nipe-questionnaire .study-id { max-width:720px; margin:24px 0; }
-.nipe-questionnaire .column-head { display:grid; grid-template-columns:minmax(0,1fr) 210px; gap:24px; padding:12px 20px; background:var(--ink); color:#fff; font-weight:bold; }
-.nipe-questionnaire fieldset { display:grid; grid-template-columns:minmax(0,1fr) 210px; gap:24px; min-width:0; border:0; border-bottom:1px solid var(--border); padding:24px 20px; margin:0; }
-.nipe-questionnaire fieldset:nth-of-type(even) { background:#f6f8fb; }
-.nipe-questionnaire legend { float:left; width:100%; padding:0; font-weight:bold; margin:0 0 8px; }
-.nipe-questionnaire .statement-copy { min-width:0; }
-.nipe-questionnaire .statement-copy p { margin:0 0 10px; }
-.nipe-questionnaire .statement-copy p:last-child { margin-bottom:0; }
-.nipe-questionnaire .responses { display:grid; grid-template-columns:1fr 1fr; gap:12px; align-content:start; }
-.nipe-questionnaire .responses label { font-size:.95rem; }
-.nipe-questionnaire .responses input { text-align:center; }
-.nipe-questionnaire .signature-grid { display:grid; grid-template-columns:1fr 1fr; gap:24px; }
-.nipe-questionnaire .signature-grid label { margin:0; }
-.nipe-questionnaire .wide { grid-column:1 / -1; }
-.nipe-questionnaire .version { font-size:.85rem; color:#465b70; border-top:1px solid var(--border); margin-top:32px; padding-top:16px; }
-.nipe-questionnaire button { font:inherit; font-weight:600; color:white; background:var(--blue); border:0; border-radius:4px; padding:12px 20px; cursor:pointer; margin-top:20px; }
+.echo-questionnaire, .echo-questionnaire * { box-sizing:border-box; }
+.echo-questionnaire .logos { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:24px; margin-bottom:32px; }
+.echo-questionnaire .logos img { height:auto; object-fit:contain; max-width:100%; }
+.echo-questionnaire .nhs { width:290px; } .echo-questionnaire .university { width:200px; } .echo-questionnaire .study { width:76px; }
+.echo-questionnaire h1 { color:var(--ink); font-size:clamp(1.7rem,4vw,2.35rem); line-height:1.2; margin:0 0 24px; }
+.echo-questionnaire h2 { font-size:1.35rem; color:var(--ink); margin:32px 0 16px; }
+.echo-questionnaire p { margin:0 0 16px; }
+.echo-questionnaire .study-details { margin-bottom:24px; }
+.echo-questionnaire .study-details p { margin-bottom:6px; }
+.echo-questionnaire .notice { padding:16px 20px; background:#edf5fc; border-left:4px solid var(--blue); margin:24px 0; }
+.echo-questionnaire .notice p:last-child { margin-bottom:0; }
+.echo-questionnaire label { font-weight:600; display:block; }
+.echo-questionnaire input { display:block; width:100%; max-width:100%; min-width:0; font:inherit; line-height:1.4; color:var(--ink); background:#fff; border:1px solid #70859a; border-radius:4px; padding:10px 12px; min-height:46px; margin-top:7px; }
+.echo-questionnaire input:disabled { opacity:1; color:var(--ink); -webkit-text-fill-color:var(--ink); cursor:default; }
+.echo-questionnaire input:focus-visible, .echo-questionnaire button:focus-visible { outline:3px solid #ffdd00; outline-offset:3px; box-shadow:0 0 0 5px #172b41; }
+.echo-questionnaire .study-id { max-width:720px; margin:24px 0; }
+.echo-questionnaire .column-head { display:grid; grid-template-columns:minmax(0,1fr) 210px; gap:24px; padding:12px 20px; background:var(--ink); color:#fff; font-weight:bold; }
+.echo-questionnaire fieldset { display:grid; grid-template-columns:minmax(0,1fr) 210px; gap:24px; min-width:0; border:0; border-bottom:1px solid var(--border); padding:24px 20px; margin:0; }
+.echo-questionnaire fieldset:nth-of-type(even) { background:#f6f8fb; }
+.echo-questionnaire legend { float:left; width:100%; padding:0; font-weight:bold; margin:0 0 8px; }
+.echo-questionnaire .statement-copy { min-width:0; }
+.echo-questionnaire .statement-copy p { margin:0 0 10px; }
+.echo-questionnaire .statement-copy p:last-child { margin-bottom:0; }
+.echo-questionnaire .responses { display:grid; grid-template-columns:1fr 1fr; gap:12px; align-content:start; }
+.echo-questionnaire .responses label { font-size:.95rem; }
+.echo-questionnaire .responses input { text-align:center; }
+.echo-questionnaire .signature-grid { display:grid; grid-template-columns:1fr 1fr; gap:24px; }
+.echo-questionnaire .signature-grid label { margin:0; }
+.echo-questionnaire .wide { grid-column:1 / -1; }
+.echo-questionnaire .version { font-size:.85rem; color:#465b70; border-top:1px solid var(--border); margin-top:32px; padding-top:16px; }
+.echo-questionnaire button { font:inherit; font-weight:600; color:white; background:var(--blue); border:0; border-radius:4px; padding:12px 20px; cursor:pointer; margin-top:20px; }
 @media(max-width:1300px) {
- .nipe-questionnaire .logos { gap:20px; } .nipe-questionnaire .nhs { width:230px; } .nipe-questionnaire .university { width:165px; }
- .nipe-questionnaire .column-head { display:none; }
- .nipe-questionnaire fieldset { display:block; padding:24px 12px; }
- .nipe-questionnaire .responses { margin-top:18px; max-width:600px; }
- .nipe-questionnaire .signature-grid { grid-template-columns:1fr; gap:20px; }
- .nipe-questionnaire .notice { padding:14px; }
+ .echo-questionnaire .logos { gap:20px; } .echo-questionnaire .nhs { width:230px; } .echo-questionnaire .university { width:165px; }
+ .echo-questionnaire .column-head { display:none; }
+ .echo-questionnaire fieldset { display:block; padding:24px 12px; }
+ .echo-questionnaire .responses { margin-top:18px; max-width:600px; }
+ .echo-questionnaire .signature-grid { grid-template-columns:1fr; gap:20px; }
+ .echo-questionnaire .notice { padding:14px; }
 }
 
-.nipe-questionnaire .responses input {
+.echo-questionnaire .responses input {
   margin-top: 0;
   font-weight: 600;
 }
 
-.nipe-questionnaire .agreement-options {
+.echo-questionnaire .agreement-options {
   grid-template-columns: 1fr;
 }
 
 /* Put the question above its answer boxes */
-.nipe-questionnaire fieldset {
+.echo-questionnaire fieldset {
   display: block;
 }
 
 /* Five agreement boxes side by side */
-.nipe-questionnaire .responses.agreement-options {
+.echo-questionnaire .responses.agreement-options {
   grid-template-columns: repeat(5, minmax(0, 1fr));
   max-width: none;
   width: 100%;
@@ -111,20 +111,20 @@ color:var(--ink); font-family:Arial,Helvetica,sans-serif; font-size:1rem; line-h
 }
 
 /* Align questions with the main text */
-.nipe-questionnaire fieldset {
+.echo-questionnaire fieldset {
   padding-left: 0;
   padding-right: 0;
 }
 
 /* Allow enough room for the text */
-.nipe-questionnaire .agreement-options input {
+.echo-questionnaire .agreement-options input {
   padding: 10px 4px;
   font-size: 0.9rem;
 }
 
 /* Use two columns on phones to keep labels readable */
 @media screen and (max-width: 650px) {
-  .nipe-questionnaire .responses.agreement-options {
+  .echo-questionnaire .responses.agreement-options {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -132,14 +132,14 @@ color:var(--ink); font-family:Arial,Helvetica,sans-serif; font-size:1rem; line-h
 @media print {
  @page { size:A4; margin:15mm; }
  body { background:white!important; }
- .nipe-questionnaire { max-width:none; font-size:10pt; line-height:1.4; }
- .nipe-questionnaire .screen-only, #quarto-header, #quarto-sidebar, #quarto-margin-sidebar, .nav-footer, .quarto-navigation-tool { display:none!important; }
- .nipe-questionnaire .logos { margin-bottom:16px; } .nipe-questionnaire .nhs { width:230px; } .nipe-questionnaire .university { width:170px; }
- .nipe-questionnaire fieldset { display:grid; grid-template-columns:minmax(0,1fr) 150px; break-inside:avoid; padding:12px 8px; gap:16px; }
- .nipe-questionnaire .responses { margin-top:0; gap:10px; }
- .nipe-questionnaire input { min-height:32px; padding:5px; border:1px solid #555; }
- .nipe-questionnaire .column-head { display:grid; grid-template-columns:minmax(0,1fr) 150px; }
- .nipe-questionnaire .signature-grid { display:grid; grid-template-columns:1fr 1fr; break-inside:avoid; }
+ .echo-questionnaire { max-width:none; font-size:10pt; line-height:1.4; }
+ .echo-questionnaire .screen-only, #quarto-header, #quarto-sidebar, #quarto-margin-sidebar, .nav-footer, .quarto-navigation-tool { display:none!important; }
+ .echo-questionnaire .logos { margin-bottom:16px; } .echo-questionnaire .nhs { width:230px; } .echo-questionnaire .university { width:170px; }
+ .echo-questionnaire fieldset { display:grid; grid-template-columns:minmax(0,1fr) 150px; break-inside:avoid; padding:12px 8px; gap:16px; }
+ .echo-questionnaire .responses { margin-top:0; gap:10px; }
+ .echo-questionnaire input { min-height:32px; padding:5px; border:1px solid #555; }
+ .echo-questionnaire .column-head { display:grid; grid-template-columns:minmax(0,1fr) 150px; }
+ .echo-questionnaire .signature-grid { display:grid; grid-template-columns:1fr 1fr; break-inside:avoid; }
 }
 
 @media screen {
@@ -151,7 +151,7 @@ color:var(--ink); font-family:Arial,Helvetica,sans-serif; font-size:1rem; line-h
     padding: 0;
   }
 
-  section.nipe-questionnaire {
+  section.echo-questionnaire {
     display: block !important;
     width: 100%;
     max-width: 1200px;
@@ -162,7 +162,7 @@ color:var(--ink); font-family:Arial,Helvetica,sans-serif; font-size:1rem; line-h
 
 </style>
 
-<section class="nipe-questionnaire" aria-label="Carer questionnaire NIPE">
+<section class="echo-questionnaire" aria-label="Carer questionnaire echo">
 
 <div class="study-logos">
   <img class="nhs"
@@ -184,9 +184,9 @@ color:var(--ink); font-family:Arial,Helvetica,sans-serif; font-size:1rem; line-h
   </p>
   
   <p>
-<a href="downloads/questionnaire-carer-nipe.pdf" download>
+<a href="downloads/questionnaire-carer-echo.pdf" download>
 
-Download a PDF of this form to print.
+Download a PDF of this questionnaire to print.
 
 </a>
 
@@ -202,31 +202,13 @@ Study Title:</strong> babyPHONO research study</p>
 
 </div>
 
-
-
-
-<div class="question">
-  <p>
-    1) Have you seen the newborn infant physical examination done
-    before on one of your own children?
-  </p>
-
-  <div class="responses">
-    <input readonly disabled tabindex="-1"
-           type="text" value="Yes" aria-label="Yes">
-    <input readonly disabled tabindex="-1"
-           type="text" value="No" aria-label="No">
-  </div>
-</div>
-
 <p><strong>
   How much do you agree or disagree with the following statements:
 </strong></p>
 
 <div class="question">
   <p>
-    2) I felt comfortable with the way the midwife/nurse/doctor
-    recorded the heart sounds with the digital stethoscope
+    2) I felt comfortable with the way the midwife/nurse/doctor recorded the heart sounds with the digital stethoscope
   </p>
 
   <div class="responses agreement-options">
@@ -268,8 +250,7 @@ Study Title:</strong> babyPHONO research study</p>
 
 <div class="question">
   <p>
-    4) The midwife/nurse/doctor was able to record the heart sounds
-    within a reasonable amount of time
+    4) The midwife/nurse/doctor was able to record the heart sounds within a reasonable amount of time
   </p>
 
   <div class="responses agreement-options">
@@ -290,8 +271,7 @@ Study Title:</strong> babyPHONO research study</p>
 
 <div class="question">
   <p>
-    5) Would you be comfortable with heart sounds being recorded
-    as part of baby checks in the future?
+    5) Would you be comfortable with heart sounds being recorded as part of baby checks in the future?
   </p>
 
   <div class="responses agreement-options">
@@ -312,19 +292,22 @@ Study Title:</strong> babyPHONO research study</p>
 
 <div class="question">
   <p>
-    6) Do you have any other comments about recording the heart
-    sounds during the baby check?
+    6) Do you have any other comments about recording the heart sounds during the baby check?
   </p>
 
   <div class="comments-box" aria-label="Space for comments on the paper questionnaire"></div>
 </div>
 
-When completed, please hand this questionnaire back to one of the members of staff looking after you or your baby. Thank you for your participation in this research. Please note, if you have concerns about the care you or your baby have received, please refer to the instructions below this questionnaire about how to inform us of these. This questionnaire should only be used to inform us about your thoughts on the recording of heart sounds and the babyPHONO research study.
+When completed, please hand this questionnaire back to one of the members of staff looking after you or your baby. Thank you for your participation in this research. 
+
+<br>
+
+Please note, if you have concerns about the care you or your baby have received, please refer to the instructions below this questionnaire about how to inform us of these. This questionnaire should only be used to inform us about your thoughts on the recording of heart sounds and the babyPHONO research study.
 
 <div style="text-align: center; margin-top: 32px;">
   <label for="study-id">
     Participant Study Identification Number
-    (baby check clinician will fill this in)
+    (your clinician will fill this in)
   </label>
 
   <input readonly disabled tabindex="-1"
@@ -356,7 +339,7 @@ This questionnaire should only be used to inform us about your experience of the
 
 <p class="version">
 
-Carer questionnaire (NIPE); babyPHONO study; STH23333; Version 1.0 Date 12/12/2025 IRAS ID: 358145
+Carer questionnaire (echo); babyPHONO study; STH23333; Version 1.0 Date 12/12/2025 IRAS ID: 358145
 
 </p>
 

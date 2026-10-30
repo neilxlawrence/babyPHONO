@@ -8,10 +8,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
       - href: study-team.qmd
-        text: Study team
+        text: "Study team"
       - text: "Participant Information"
         menu:
           - text: "Babies Having an Echo"
