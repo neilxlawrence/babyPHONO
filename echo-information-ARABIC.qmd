@@ -14,23 +14,29 @@ main.content .centered { text-align: center; }
 </style>
 ```
 
-::: {.centered dir="rtl"}
+:::: {.centered dir="rtl"}
 **التسجيلات الرقمية لأصوات القلب لدى الرضّع أثناء الفحص البدني لحديثي الولادة والرضّع: دراسة babyPHONO**
 
-<div class="study-logos">
-  <img class="nhs"
+::: study-logos
+```{=html}
+<img class="nhs"
        src="images/teaching_hospitals_logo.jpg"
        alt="Sheffield Teaching Hospitals NHS Foundation Trust">
+```
 
-  <img class="study"
+```{=html}
+<img class="study"
        src="images/babyPHONO_logo_white.png"
        alt="babyPHONO">
+```
 
-  <img class="university"
+```{=html}
+<img class="university"
        src="images/university_of_sheffield_logo_white.jpg"
        alt="University of Sheffield">
-</div>  
+```
 :::
+::::
 
 ::: {dir="rtl"}
 نودّ دعوتك أنت وطفلك للمشاركة في دراستنا البحثية. قبل اتخاذ القرار، نودّ أن تفهم سبب إجراء هذا البحث وما تتضمنه المشاركة فيه. سيشرح لك أحد أعضاء فريقنا هذه المعلومات ويجيب عن أي أسئلة لديك. يُرجى سؤالنا إذا كان هناك أي شيء غير واضح، أو إذا كنت ترغب في الحصول على مزيد من المعلومات. خذ الوقت الذي تحتاجه لتقرر ما إذا كنت ترغب في مشاركة طفلك أم لا. المشاركة اختيارية تمامًا.

@@ -43,14 +43,17 @@ h2.subtitle {
     grid-column: 1 / -1 !important;
     display: block !important;
     width: 100%;
-    max-width: none;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 0 24px;
+    box-sizing: border-box;
   }
 
   section.nipe-consent {
     display: block !important;
     width: 100%;
-    max-width: none;
+    max-width: 100%;
     margin: 0;
     padding: 0;
   }

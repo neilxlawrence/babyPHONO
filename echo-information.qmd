@@ -2,25 +2,31 @@
 title: "Echocardiogram patient information sheet"
 ---
 
-::: {style="text-align: center;"}
+:::: {style="text-align: center;"}
 <b>Digital recordings of heart sounds in babies during the Newborn Infant Physical Examination: the babyPHONO study</b>
 
-<div class="study-logos">
-  <img class="nhs"
+::: study-logos
+```{=html}
+<img class="nhs"
        src="images/teaching_hospitals_logo.jpg"
        alt="Sheffield Teaching Hospitals NHS Foundation Trust">
+```
 
-  <img class="study"
+```{=html}
+<img class="study"
        src="images/babyPHONO_logo_white.png"
        alt="babyPHONO">
+```
 
-  <img class="university"
+```{=html}
+<img class="university"
        src="images/university_of_sheffield_logo_white.jpg"
        alt="University of Sheffield">
-</div>  
+```
+:::
 
 <br>
-:::
+::::
 
 ::: {style="text-align: left;"}
 We would like to invite you and your baby to take part in our research study. Before you decide, we would like you to understand why the research is being done and what it will involve. One of our team will go through this information with you and answer any questions you may have. Ask us if there is anything that is not clear or if you would like more information. Take time to decide whether or not you want your child to take part. Participation is completely voluntary.
