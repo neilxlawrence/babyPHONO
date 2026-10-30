@@ -198,17 +198,17 @@ I confirm that I have read the relevant participant information sheet [PIS_babyP
 
 </div><div class="responses">
 
-<label for="s1-yes">
+<label for="s1-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s1-yes" name="s1-yes" type="text" aria-label="Initial for NO to statement 1" autocomplete="off" spellcheck="false"></label>
+<input readonly disabled tabindex="-1" id="s1-no" name="s1-no" type="text" aria-label="Initial for NO to statement 1" autocomplete="off" spellcheck="false"></label>
 
-<label for="s1-no">
+<label for="s1-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s1-no" name="s1-no" type="text" aria-label="Initial for YES to statement 1" autocomplete="off" spellcheck="false"></label>
+<input readonly disabled tabindex="-1" id="s1-yes" name="s1-yes" type="text" aria-label="Initial for YES to statement 1" autocomplete="off" spellcheck="false"></label>
 
 </div></fieldset>
 
@@ -258,17 +258,17 @@ f) A follow-up telephone call after my child is 1 year of age to check if my chi
 
 </div><div class="responses">
 
-<label for="s2-yes">
+<label for="s2-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s2-yes" name="s2-yes" type="text" aria-label="Initial for NO to statement 2" autocomplete="off" spellcheck="false"></label>
+<input readonly disabled tabindex="-1" id="s2-no" name="s2-no" type="text" aria-label="Initial for NO to statement 2" autocomplete="off" spellcheck="false"></label>
 
-<label for="s2-no">
+<label for="s2-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s2-no" name="s2-no" type="text" aria-label="Initial for YES to statement 2" autocomplete="off" spellcheck="false"></label>
+<input readonly disabled tabindex="-1" id="s2-yes" name="s2-yes" type="text" aria-label="Initial for YES to statement 2" autocomplete="off" spellcheck="false"></label>
 
 </div></fieldset>
 
@@ -288,17 +288,17 @@ I understand that participation of my child is voluntary and that I am free to w
 
 </div><div class="responses">
 
-<label for="s3-yes">
+<label for="s3-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s3-yes" name="s3-yes" type="text" aria-label="Initial for NO to statement 3" autocomplete="off" spellcheck="false"></label>
+<input readonly disabled tabindex="-1" id="s3-no" name="s3-no" type="text" aria-label="Initial for NO to statement 3" autocomplete="off" spellcheck="false"></label>
 
-<label for="s3-no">
+<label for="s3-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s3-no" name="s3-no" type="text" aria-label="Initial for YES to statement 3" autocomplete="off" spellcheck="false"></label>
+<input readonly disabled tabindex="-1" id="s3-yes" name="s3-yes" type="text" aria-label="Initial for YES to statement 3" autocomplete="off" spellcheck="false"></label>
 
 </div></fieldset>
 
@@ -318,19 +318,19 @@ I understand that by choosing to participate as a volunteer in this research, th
 
 </div><div class="responses">
 
-<label for="s4-yes">
+<label for="s4-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s4-yes" name="s4-yes" type="text" aria-label="Initial for NO to statement 4" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s4-no" name="s4-no" type="text" aria-label="Initial for NO to statement 4" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s4-no">
+<label for="s4-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s4-no" name="s4-no" type="text" aria-label="Initial for YES to statement 4" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s4-yes" name="s4-yes" type="text" aria-label="Initial for YES to statement 4" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -354,19 +354,19 @@ If I decide to withdraw my child from the study, I understand no further data wi
 
 </div><div class="responses">
 
-<label for="s5-yes">
+<label for="s5-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s5-yes" name="s5-yes" type="text" aria-label="Initial for NO to statement 5" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s5-no" name="s5-no" type="text" aria-label="Initial for NO to statement 5" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s5-no">
+<label for="s5-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s5-no" name="s5-no" type="text" aria-label="Initial for YES to statement 5" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s5-yes" name="s5-yes" type="text" aria-label="Initial for YES to statement 5" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -389,19 +389,19 @@ I understand that identifiable data (such as name) and relevant sections of my c
 
 <div class="responses">
 
-<label for="s6-yes">
+<label for="s6-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s6-yes" name="s6-yes" type="text" aria-label="Initial for NO to statement 6" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s6-no" name="s6-no" type="text" aria-label="Initial for NO to statement 6" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s6-no">
+<label for="s6-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s6-no" name="s6-no" type="text" aria-label="Initial for YES to statement 6" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s6-yes" name="s6-yes" type="text" aria-label="Initial for YES to statement 6" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -425,19 +425,19 @@ I understand and agree that anonymised data about my child may be used in public
 
 </div><div class="responses">
 
-<label for="s7-yes">
+<label for="s7-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s7-yes" name="s7-yes" type="text" aria-label="Initial for NO to statement 7" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s7-no" name="s7-no" type="text" aria-label="Initial for NO to statement 7" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s7-no">
+<label for="s7-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s7-no" name="s7-no" type="text" aria-label="Initial for YES to statement 7" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s7-yes" name="s7-yes" type="text" aria-label="Initial for YES to statement 7" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -457,19 +457,19 @@ OPTIONAL: I understand and agree for my child’s individual pseudonymised infor
 
 </div><div class="responses">
 
-<label for="s8-yes">
+<label for="s8-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s8-yes" name="s8-yes" type="text" aria-label="Initial for NO to statement 8" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s8-no" name="s8-no" type="text" aria-label="Initial for NO to statement 8" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s8-no">
+<label for="s8-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s8-no" name="s8-no" type="text" aria-label="Initial for YES to statement 8" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s8-yes" name="s8-yes" type="text" aria-label="Initial for YES to statement 8" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -487,19 +487,19 @@ I understand researchers or those at other organisations allowed by the research
 
 </div><div class="responses">
 
-<label for="s9-yes">
+<label for="s9-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s9-yes" name="s9-yes" type="text" aria-label="Initial for NO to statement 9" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s9-no" name="s9-no" type="text" aria-label="Initial for NO to statement 9" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s9-no">
+<label for="s9-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s9-no" name="s9-no" type="text" aria-label="Initial for YES to statement 9" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s9-yes" name="s9-yes" type="text" aria-label="Initial for YES to statement 9" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -521,17 +521,17 @@ I understand that the heart sound recordings obtained from my child during this 
 
 </div><div class="responses">
 
-<label for="s10-yes">
+<label for="s10-no">
 
-Initial here for no:<input readonly disabled tabindex="-1" id="s10-yes" name="s10-yes" type="text" aria-label="Initial for NO to statement 10" autocomplete="off" spellcheck="false">
+Initial here for no:<input readonly disabled tabindex="-1" id="s10-no" name="s10-no" type="text" aria-label="Initial for NO to statement 10" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s10-no">
+<label for="s10-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s10-no" name="s10-no" type="text" aria-label="Initial for YES to statement 10" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s10-yes" name="s10-yes" type="text" aria-label="Initial for YES to statement 10" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -552,10 +552,10 @@ I understand that heart sound recordings obtained with the Eko CORE digital stet
 
 </div><div class="responses">
 
-<label for="s11-yes">Initial here for no:<input readonly disabled tabindex="-1" id="s11-yes" name="s11-yes" type="text" aria-label="Initial for NO to statement 11" autocomplete="off" spellcheck="false">
+<label for="s11-no">Initial here for no:<input readonly disabled tabindex="-1" id="s11-no" name="s11-no" type="text" aria-label="Initial for NO to statement 11" autocomplete="off" spellcheck="false">
 </label>
 
-<label for="s11-no">Initial here for yes:<input readonly disabled tabindex="-1" id="s11-no" name="s11-no" type="text" aria-label="Initial for YES to statement 11" autocomplete="off" spellcheck="false">
+<label for="s11-yes">Initial here for yes:<input readonly disabled tabindex="-1" id="s11-yes" name="s11-yes" type="text" aria-label="Initial for YES to statement 11" autocomplete="off" spellcheck="false">
 </label>
 
 </div></fieldset>
@@ -571,18 +571,18 @@ I understand that clinicians involved in the study are informed not to enter pat
 
 </div><div class="responses">
 
-<label for="s12-yes">
+<label for="s12-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s12-yes" name="s12-yes" type="text" aria-label="Initial for NO to statement 12" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s12-no" name="s12-no" type="text" aria-label="Initial for NO to statement 12" autocomplete="off" spellcheck="false">
 </label>
 
-<label for="s12-no">
+<label for="s12-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s12-no" name="s12-no" type="text" aria-label="Initial for YES to statement 12" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s12-yes" name="s12-yes" type="text" aria-label="Initial for YES to statement 12" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -602,19 +602,19 @@ I understand that participation within this study does not alter any of the trea
 
 </div><div class="responses">
 
-<label for="s13-yes">
+<label for="s13-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s13-yes" name="s13-yes" type="text" aria-label="Initial for NO to statement 13" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s13-no" name="s13-no" type="text" aria-label="Initial for NO to statement 13" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s13-no">
+<label for="s13-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s13-no" name="s13-no" type="text" aria-label="Initial for YES to statement 13" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s13-yes" name="s13-yes" type="text" aria-label="Initial for YES to statement 13" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -634,18 +634,18 @@ I understand that records relating to my child will be kept confidential. No inf
 
 </div><div class="responses">
 
-<label for="s14-yes">
+<label for="s14-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s14-yes" name="s14-yes" type="text" aria-label="Initial for NO to statement 14" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s14-no" name="s14-no" type="text" aria-label="Initial for NO to statement 14" autocomplete="off" spellcheck="false">
 </label>
 
-<label for="s14-no">
+<label for="s14-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s14-no" name="s14-no" type="text" aria-label="Initial for YES to statement 14" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s14-yes" name="s14-yes" type="text" aria-label="Initial for YES to statement 14" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -661,19 +661,19 @@ I understand and agree that the research team will securely store my identifiabl
 
 </div><div class="responses">
 
-<label for="s15-yes">
+<label for="s15-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s15-yes" name="s15-yes" type="text" aria-label="Initial for NO to statement 15" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s15-no" name="s15-no" type="text" aria-label="Initial for NO to statement 15" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s15-no">
+<label for="s15-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s15-no" name="s15-no" type="text" aria-label="Initial for YES to statement 15" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s15-yes" name="s15-yes" type="text" aria-label="Initial for YES to statement 15" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -689,19 +689,19 @@ I agree to be contacted for a telephone interview about my child’s health afte
 
 </div><div class="responses">
 
-<label for="s16-yes">
+<label for="s16-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s16-yes" name="s16-yes" type="text" aria-label="Initial for NO to statement 16" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s16-no" name="s16-no" type="text" aria-label="Initial for NO to statement 16" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s16-no">
+<label for="s16-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s16-no" name="s16-no" type="text" aria-label="Initial for YES to statement 16" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s16-yes" name="s16-yes" type="text" aria-label="Initial for YES to statement 16" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -717,19 +717,19 @@ OPTIONAL: I agree to be emailed by the study team with updates about the studies
 
 </div><div class="responses">
 
-<label for="s17-yes">
+<label for="s17-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s17-yes" name="s17-yes" type="text" aria-label="Initial for NO to statement 17" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s17-no" name="s17-no" type="text" aria-label="Initial for NO to statement 17" autocomplete="off" spellcheck="false">
 
 </label>
 
-<label for="s17-no">
+<label for="s17-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s17-no" name="s17-no" type="text" aria-label="Initial for YES to statement 17" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s17-yes" name="s17-yes" type="text" aria-label="Initial for YES to statement 17" autocomplete="off" spellcheck="false">
 
 </label>
 
@@ -745,18 +745,18 @@ I agree for my child to take part in the above study
 
 </div><div class="responses">
 
-<label for="s18-yes">
+<label for="s18-no">
 
 Initial here for no:
 
-<input readonly disabled tabindex="-1" id="s18-yes" name="s18-yes" type="text" aria-label="Initial for NO to statement 18" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s18-no" name="s18-no" type="text" aria-label="Initial for NO to statement 18" autocomplete="off" spellcheck="false">
 </label>
 
-<label for="s18-no">
+<label for="s18-yes">
 
 Initial here for yes:
 
-<input readonly disabled tabindex="-1" id="s18-no" name="s18-no" type="text" aria-label="Initial for YES to statement 18" autocomplete="off" spellcheck="false">
+<input readonly disabled tabindex="-1" id="s18-yes" name="s18-yes" type="text" aria-label="Initial for YES to statement 18" autocomplete="off" spellcheck="false">
 </label>
 
 </div></fieldset>

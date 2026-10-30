@@ -32,6 +32,8 @@ website:
         menu:
           - text: "Babies Having an Echo"
             href: echo-questionnaire.qmd
+          - text: "Babies Having a NIPE"
+            href: nipe-questionnaire.qmd
       - href: translations.qmd
         text: Translations
     logo: images/babyphono_logo_purple.png
