@@ -2,6 +2,9 @@
 title: "babyPHONO"
 toc: false
 anchor-sections: false
+pagetitle: "Research into Using Artificial Intelligence in the Analsyis of Newborn Heart Sounds"
+description: "Learn about the babyPHONO research study where we are recording the heart sounds of babies, to investigate whether they can predict echocardiogram findings of congenital heart disease"
+title-block-style: none
 ---
 
 ::: {style="text-align: center;"}

@@ -171,7 +171,7 @@ Please write your initials next to each statement in the right-hand column below
 
 <label class="study-id" for="study-id">
 
-Participant Study Identification Number
+Participant Study Identification Number:
 
 <input readonly disabled tabindex="-1" id="study-id" name="study-id" type="text" autocomplete="off"></label>
 

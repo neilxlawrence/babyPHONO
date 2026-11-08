@@ -306,7 +306,7 @@ Please note, if you have concerns about the care you or your baby have received,
 
 <div style="text-align: center; margin-top: 32px;">
   <label for="study-id">
-    Participant Study Identification Number
+    Participant Study Identification Number:
     (your clinician will fill this in)
   </label>
 

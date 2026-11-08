@@ -146,7 +146,11 @@ If you wish for your child to take part in ‘The babyPHONO study’, please rea
 
 Please write your initials next to each statement in the right-hand column below ‘yes’ if you agree or below ‘no’ if you do not agree, and sign and date the form at the end.</p>
 
-<label class="study-id" for="study-id">Participant Study Identification Number<input readonly disabled tabindex="-1" id="study-id" name="study-id" type="text" autocomplete="off"></label>
+<label class="study-id" for="study-id">
+
+Participant Study Identification Number:
+
+<input readonly disabled tabindex="-1" id="study-id" name="study-id" type="text" autocomplete="off"></label>
 
 <div class="column-head" aria-hidden="true"><span>Consent statement</span><span>Your initials</span></div>
 

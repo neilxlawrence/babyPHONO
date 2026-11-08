@@ -5,6 +5,9 @@ project:
     - "downloads/**"
 website:
   title: "babyPHONO"
+  site-url: "https://babyphono.org"
+  description: "babyPHONO is a neonatal research study investigating digital heart sound recordings, newborn screening and congenital heart disease."
+  search: true
   navbar:
     left:
       - href: index.qmd
@@ -43,7 +46,12 @@ format:
   html:
     page-layout: full
     pretty_urls: true
-    include-in-header: meta.html
+    lang: en-GB
+    include-in-header:
+      - file: meta.html
+      - text: |
+          <script data-goatcounter="https://neilxlawrence.goatcounter.com/count"
+                  async src="https://gc.zgo.at/count.js"></script>
     theme:
       - cosmo
       - brand

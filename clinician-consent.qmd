@@ -142,12 +142,18 @@ Principal Investigator:</strong> Dr. Simon Clark
 </div>
 
 <p>
+
 If you wish to take part in ‘The babyPHONO study’, please read the clinician participant information sheet (PIS_babyPHONO_clinician_v2.0). 
 
 Please write your initials next to each statement in the right-hand column below ‘yes’ if you agree or below ‘no’ if you do not agree, and sign and date the form at the end.
+
 </p>
 
-<label class="study-id" for="study-id">Clinician Study Identification Number<input readonly disabled tabindex="-1" id="study-id" name="study-id" type="text" autocomplete="off"></label>
+<label class="study-id" for="study-id">
+
+Clinician Study Identification Number:
+
+<input readonly disabled tabindex="-1" id="study-id" name="study-id" type="text" autocomplete="off"></label>
 
 <div class="column-head" aria-hidden="true"><span>Consent statement</span><span>Your initials</span></div>
 

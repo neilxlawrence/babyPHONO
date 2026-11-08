@@ -319,7 +319,7 @@ When completed, please hand this questionnaire back to one of the members of sta
 
 <div style="text-align: center; margin-top: 32px;">
   <label for="study-id">
-    Participant Study Identification Number
+    Participant Study Identification Number:
     (baby check clinician will fill this in)
   </label>
 
